@@ -1,3 +1,12 @@
+NOTE:
+THIS VERSION OF CLIFFIES GOOS HAS BEEN PORTED TO 1.7
+IT IS FOR 1.7 USE, IF YOU FIND ANY BUGS REPORT IT TO CLIFFIE OR MINECREATR(it might be an update isssue)
+
+
+
+
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
